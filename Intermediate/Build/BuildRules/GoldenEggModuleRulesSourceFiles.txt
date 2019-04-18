@@ -1,0 +1,3 @@
+C:\Users\kevin\Documents\Unreal Projects\GoldenEgg\Source\GoldenEgg\GoldenEgg.Build.cs
+C:\Users\kevin\Documents\Unreal Projects\GoldenEgg\Source\GoldenEgg.Target.cs
+C:\Users\kevin\Documents\Unreal Projects\GoldenEgg\Source\GoldenEggEditor.Target.cs
