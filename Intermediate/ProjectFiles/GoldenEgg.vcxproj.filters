@@ -52,9 +52,15 @@
     <ClInclude Include="..\..\Source\GoldenEgg\GameModeGoldenEgg.h">
       <Filter>Source\GoldenEgg</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\Source\GoldenEgg\NPC.h">
+      <Filter>Source\GoldenEgg</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\Source\GoldenEgg\GameModeGoldenEgg.cpp">
+      <Filter>Source\GoldenEgg</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GoldenEgg\NPC.cpp">
       <Filter>Source\GoldenEgg</Filter>
     </ClCompile>
   </ItemGroup>
